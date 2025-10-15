@@ -8,7 +8,7 @@
 
 _Last updated: 2025-10-15_
 
-This is the step-by-step playbook I use to set up and troubleshoot **Windows Autopilot**, the **Enrollment Status Page (ESP)**, **Delivery Optimization (DO)**, and a blocking **WebView2 Win32 app**. It assumes Intune admin permissions (or that we can get the right role assignments quickly). Friendly tone, precise clicks, minimal fluff.
+This is the step-by-step playbook I use to set up and troubleshoot **Windows Autopilot**, the **Enrollment Status Page (ESP)**, **Delivery Optimization (DO)**, and a blocking **WebView2 Win32 app**. It assumes Intune admin permissions (or that we can get the right role assignments quickly)
 
 ---
 
