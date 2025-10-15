@@ -1,0 +1,1 @@
+Start-Process -Verb RunAs powershell -ArgumentList "-ExecutionPolicy Bypass -File `".\Autopilot-FirstLogin-Diag-v3.ps1`""
